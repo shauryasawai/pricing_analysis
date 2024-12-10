@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Menu</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #ffffff;
+            margin-top: 20px;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            border: 1px solid #444;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #444;
+        }
+
+        th {
+            background-color: #333;
+            color: #ffffff;
+        }
+
+        td {
+            background-color: #222;
+            color: #e0e0e0;
+        }
+
+        tr:nth-child(even) td {
+            background-color: #2c2c2c;
+        }
+
+        tr:hover td {
+            background-color: #444;
+        }
+
+        .price {
+            font-weight: bold;
+            color: #ff9800;
+        }
+
+        .adjusted-price {
+            color: #4caf50;
+        }
+    </style>
+</head>
+<body>
+    <h1>Village - The Soul of India Menu</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Base Price</th>
+                <th>Current Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in items %}
+            <tr>
+                <td>{{ item.name }}</td>
+                <td class="price">${{ item.base_price }}</td>
+                <td class="adjusted-price">${{ item.adjusted_price }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

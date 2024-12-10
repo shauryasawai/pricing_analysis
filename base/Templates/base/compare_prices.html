@@ -1,0 +1,34 @@
+<!-- templates/compare_prices.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Price Comparison</title>
+</head>
+<body>
+    <h1>Price Comparison - Village vs Dosa World</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Item Name</th>
+                <th>Village Price</th>
+                <th>Dosa World Price</th>
+                <th>Lowest Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in matching_items %}
+                <tr>
+                    <td>{{ item.name }}</td>
+                    <td>${{ item.village_price }}</td>
+                    <td>${{ item.dosa_price }}</td>
+                    <td>${{ item.min_price }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

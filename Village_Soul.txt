@@ -1,0 +1,78 @@
+
+Name: Village - The Soul of India
+Address: 11 West Marie St Hicksville, NY 11801
+
+Timings:
+Mon: 11:00 AM - 3:00 PM | 5:00 PM - 10:00 PM
+Tue: Closed
+Wed: 11:00 AM - 3:00 PM | 5:00 PM - 10:00 PM
+Thu: 11:00 AM - 3:00 PM | 5:00 PM - 10:00 PM
+Fri: 11:00 AM - 3:00 PM | 5:00 PM - 10:00 PM
+Sat: 11:30 AM - 10:00 PM
+Sun: 11:30 AM - 10:00 PM
+
+Menu:
+Item: Rasam, Price: $4.95
+Item: Sambar, Price: $4.95
+Item: Mulligatawny Soup, Price: $4.95
+Item: Garden Soup, Price: $4.95
+Item: Kachumbar Salad, Price: $4.95
+Item: Garden Salad, Price: $4.95
+Item: Veg Manchow Soup, Price: $4.95
+Item: Tomato Soup, Price: $4.95
+Item: Idly, Price: $5.95
+Item: Masala Idly, Price: $7.95
+Item: Mini Idly, Price: $5.95
+Item: Ghee Fried Idly, Price: $7.95
+Item: Chilli Idly, Price: $7.95
+Item: Idly in Sambar Bowl, Price: $6.95
+Item: Idly in Rasam Bowl, Price: $6.95
+Item: Medu Vada, Price: $5.95
+Item: Medu Vada in Sambar Bowl, Price: $5.99
+Item: Masala Vada, Price: $5.95
+Item: Spring Rolls, Price: $5.95
+Item: Paneer Pakoda, Price: $6.95
+Item: Samosa, Price: $4.95
+Item: Bhel Puri, Price: $6.95
+Item: Samosa Chat, Price: $6.95
+Item: Veg Hakka Noodles, Price: $9.95
+Item: Veg Fried Rice, Price: $9.95
+Item: Sada Dosa, Price: $8.95
+Item: Masala Dosa, Price: $9.95
+Item: Mysore Masala Dosa, Price: $9.95
+Item: Onion Rava Masala Dosa, Price: $11.95
+Item: South Indian Thali, Price: $15.95
+Item: North Indian Thali, Price: $15.95
+Item: Roti, Price: $3.95
+Item: Dum Biryani, Price: $11.95
+Item: Veg Pullav, Price: $9.95
+Item: Jeera Rice, Price: $ 9.95
+Item: Lemon Rice, Price: $ 9.95
+Item: Tamarind Rice, Price: $ 9.95
+Item: Vangi Bhath, Price: $ 9.95
+Item: B.B.B Bishibilabath, Price: $ 9.95
+Item: Tomato Rice, Price: $ 9.95
+Item: Coconut Rice, Price: $ 9.95
+Item: Yogurt Rice, Price: $ 9.95
+Item: Gulab Jamun, Price: $ 4.95
+Item: Rasamalai, Price: $ 4.95
+Item: Kheer, Price: $ 4.95
+Item: Semiya Payasam, Price: $ 4.95
+Item: Badam Halwa, Price: $ 5.95
+Item: Kulfi Malai, Price: $ 4.95
+Item: Halwa with Ice Cream, Price: $ 6.95
+Item: Soda- Coke, D. Coke, Thumps up, Limca sprite, Ginger / Water, Price: $ 2.95
+Item: Lassi-Mango, Price: $ 4.95
+Item: Hot Drink-Madras Coffee, Price: $ 2.95
+Item: Shakes -Vennila, Price: $ 4.95
+Item: D. Coke, Price: $ 1.95
+Item: Sprite, Price: $ 1.95
+Item: Ginger, Price: $ 1.95
+Item: water, Price: $ 1.95
+Item: Lassi- Sweet, Price: $ 4.95
+Item: Lassi- Salted, Price: $ 4.95
+Item: Lassi- Chaas, Price: $ 4.95
+Item: Hot Drink-Masala Tea, Price: $ 2.95
+Item: Hot Drink- Herbal Tea, Price: $ 2.95
+Item: Shakes - Mango, Price: $ 4.95
+Item: Shakes -Chikoo, Price: $ 4.95 

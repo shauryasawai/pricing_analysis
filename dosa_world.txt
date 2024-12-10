@@ -1,0 +1,74 @@
+Item: Garden Salad, Price: $4.99
+Item: Katchumber Salad, Price: $4.99
+Item: Rasam Soup, Price: $4.99
+Item: Tomato Soup, Price: $4.99
+Item: Mulligatawny Soup, Price: $4.99
+Item: Spinach Soup, Price: $4.99
+Item: Vegetable Soup, Price: $4.99
+Item: Batata Vada, Samosa, Pakora & Bajjia, Price: $13.99
+Item: Papadam, Price: $1.99
+Item: Masala Spiced Cashew Nuts, Price: $5.99
+Item: Behl Puri, Price: $5.99
+Item: Paneer Pakora, Price: $6.99
+Item: Gobi Manchurian, Price: $7.99
+Item: Paneer Manchurian, Price: $8.99
+Item: Alu Tikki, Price: $5.99
+Item: Idli, Price: $5.99
+Item: Idli in Rasam Bowl, Price: $6.99
+Item: Idli in Sambar Bowl, Price: $6.99
+Item: Mini Idli, Price: $5.99
+Item: Mini Idli in Rasam Bowl, Price: $6.99
+Item: Mini Idli in Sambar Bowl, Price: $6.99
+Item: Ghee Fried Idli, Price: $6.99
+Item: Idli Vada, Price: $5.99
+Item: Idli Vada in Rasam Bowl, Price: $6.99
+Item: Idli Vada in Sambar Bowl, Price: $6.99
+Item: Medu Vada, Price: $5.99
+Item: Medu Vada in Rasam Bowl, Price: $6.99
+Item: Medu Vada in Sambar Bowl, Price: $6.99
+Item: Dahi Vada, Price: $5.99
+Item: Alu Chaat, Price: $5.99
+Item: Chana Chaat, Price: $5.99
+Item: Samosa Chaat, Price: $6.99
+Item: Papri Chaat, Price: $6.99
+Item: Alu Papri Chaat, Price: $6.25
+Item: Rava Dosa, Price: $10.25
+Item: Rava Masala Dosa, Price: $11.99
+Item: Onion Rava Dosa, Price: $12.99
+Item: Onion Rava Masala Dosa, Price: $13.99
+Item: Mysore Rava Masala Dosa, Price: $13.99
+Item: Rava Masala Dosa with Chili & Gunpowder, Price: $14.99
+Item: Paneer Rava Masala Dosa, Price: $14.99
+Item: Coconut Rava Masala Dosa, Price: $14.99
+Item: Special Dosa World Rava Dosa, Price: $15.99
+Item: Sada Dosa, Price: $9.99
+Item: Set Dosa, Price: $7.99
+Item: Set Masala Dosa, Price: $10.99
+Item: Masala Dosa, Price: $10.99
+Item: Ghee Sada Dosa, Price: $8.99
+Item: Ghee Masala Dosa, Price: $11.99
+Item: Paper Dosa, Price: $11.99
+Item: Paper Masala Dosa, Price: $12.99
+Item: Plain Uttapam, Price: $9.99
+Item: Coconut Uttapam, Price: $11.99
+Item: Paneer Uttapam, Price: $12.99
+Item: Mushroom Uttapam, Price: $12.99
+Item: Mixed Vegetable Uttapam, Price: $12.99
+Item: Chili Cheese Uttapam, Price: $12.99
+Item: Alu Palak, Price: $12.99
+Item: Chana Masala, Price: $12.99
+Item: Palak Paneer, Price: $13.99
+Item: Malai Kofta, Price: $13.99
+Item: North Indian Thali, Price: $19.99
+Item: South Indian Thali, Price: $19.99
+Item: Chapati, Price: $5.99
+Item: Pulka, Price: $4.99
+Item: Paratha, Price: $5.99
+Item: Stuffed Paratha, Price: $7.99
+Item: Poori, Price: $7.99
+Item: Pulav, Price: $9.99
+Item: Biryani, Price: $9.99
+Item: Curd Rice, Price: $8.99
+Item: Thums Up, Price: $3.00
+Item: Fanta, Price: $3.00
+Item: Mango Lassi, Price: $6.75
